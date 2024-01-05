@@ -1,5 +1,3 @@
-This file is incomplete.
+In the following project, firstly I imported the raw data.
 
-watch the video again, and jot down the requirement 
-of the client this readme file in place of this text.
-change the file name too.
+##impo
